@@ -1,0 +1,17 @@
+export const screenName = {
+  login: 'Login',
+  home: 'Home',
+  createNewAccount: 'CreateNewAccount',
+  homeScreen: 'HomeScreen',
+  events: 'Events',
+  profileScreen: 'ProfileScreen',
+  forgotPasswordScreen: 'ForgotPasswordScreen',
+  resetPasswordScreen: 'ResetPasswordScreen',
+  teamRostersScreen: 'TeamRostersScreen',
+  rosterScreen: 'RosterScreen',
+  pdfScreen: 'PdfScreen',
+  teamScreen: 'Teams',
+  teamListScreen: 'TeamListScreen',
+  eventInformationScreen: 'EventInformationScreen',
+  eventInformationTeamsScreen: 'EventInformationTeamsScreen',
+};
